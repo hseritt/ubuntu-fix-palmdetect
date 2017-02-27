@@ -15,6 +15,8 @@ Save it. Done.
 
 On startup, you can run:
 
+```
 # fixtouchpad
+```
 
 And then the palm detection problem is now fixed. Mostly. Try it and let me know if you have any problems with it.
