@@ -4,10 +4,12 @@ Are you having a problem with your Ubuntu laptop where your mouse cursor jumps e
 
 Inside the file, put:
 
+```
 #!/usr/bin/env bash
 
 pkill syndaemon
 syndaemon -i 1 -KRd
+```
 
 Save it. Done.
 
