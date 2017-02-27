@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+pkill syndaemon
+syndaemon -i 1 -KRd
